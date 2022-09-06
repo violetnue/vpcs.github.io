@@ -24,7 +24,7 @@
                             konkretną osobą.
                         </p>
                         <p>
-                            Jeżeli wyrażają Państwo na udział w badaniu należy kliknąć w czarny guzik ze strzałką.
+                            Jeżeli wyrażają Państwo na udział w badaniu należy kliknąć w czarny przycisk ze strzałką.
                             Wtedy zostaną Państwo przekierowani na właściwe badanie.
                         </p>
                         <p>

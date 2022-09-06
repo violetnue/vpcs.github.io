@@ -19,7 +19,7 @@
                             internetową.
                             Prosiłabym o przejrzenie każdej ze stron bardzo dokładnie, aż nie pojawi się krótka ankieta
                             z pytaniami.
-                        <p> Po wciśnięciu czarnego guzika ze strzałką będą Państwo przekierowani do badania.</p>
+                        <p> Po wciśnięciu czarnego przycisku ze strzałką będą Państwo przekierowani do badania.</p>
 
                     </div>
                 </v-card-text>
