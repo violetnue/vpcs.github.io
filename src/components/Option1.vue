@@ -30,7 +30,7 @@
                                 A WEBSITE FOR AWAKENING YOUR CREATIVITY</h1>
                             <p class="text-color subheading text-xs-center">Unleash your creativity without limitations
                             </p>
-                            <v-btn class="orange darken-1 mt-5" dark large href="/pre-made-themes">
+                            <v-btn class="orange darken-1 mt-5" dark large">
                                 Get Started
                             </v-btn>
                         </v-layout>
@@ -105,7 +105,7 @@
                             </div>
                             <em>you don't have to be known to be among the best on the main page, your work
                                 counts! </em>
-                            <v-btn class="orange darken-1 mt-5" dark large href="/pre-made-themes">
+                            <v-btn class="orange darken-1 mt-5" dark large">
                                 Get more info
                             </v-btn>
                         </v-layout>
