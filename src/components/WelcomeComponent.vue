@@ -14,7 +14,7 @@
                         <p>
                             Zostanie przedstawiona Państwu seria stron internetowych, które prosiłabym dokładnie się
                             przyjrzeć.
-                            Następnie na samym dole strony internetowej - w prawym dolnym rogu będzie znajdować się
+                            Następnie na samym dole każdej strony internetowej - w prawym dolnym rogu będzie znajdować się
                             czarna strzałka (taka jak poniżej), która przekieruje Państwa na kolejną stroną
                             internetową.
                             Prosiłabym o przejrzenie każdej ze stron bardzo dokładnie, aż nie pojawi się krótka ankieta

@@ -14,7 +14,7 @@
                         </p>
 
                         <p>
-                            Bardzo dziękuje za udział w badaniu i uprzejmie proszę o zapoznanie się z poniższym tekstem.</p>
+                            Uprzejmie proszę o zapoznanie się z poniższym tekstem.</p>
                         <p>
                             Biorą Państwo udział w badaniu mającym na celu zrozumienie procesów zachodzących podczas percypowania
                             strony internetowej.
@@ -23,6 +23,9 @@
                             odpowiedzi, których Pani/Pan udzieli są całkowicie anonimowe i nie będą powiązane z
                             konkretną osobą.
                         </p>
+                      <p>
+                        <b>Prosiłabym o wykonanie badania na komputerze (PC)</b>
+                      </p>
                         <p>
                             Jeżeli wyrażają Państwo na udział w badaniu należy kliknąć w czarny przycisk ze strzałką.
                             Wtedy zostaną Państwo przekierowani na właściwe badanie.
