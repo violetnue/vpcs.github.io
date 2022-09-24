@@ -21,7 +21,7 @@
                             konkretną osobą.
                         </p>
                       <p>
-                        <b>Prosiłabym o wykonanie badania na komputerze (PC.)</b>
+                        <b>Prosiłabym o wykonanie badania na komputerze (PC).</b>
                       </p>
                         <p>
                             Jeżeli wyrażają Państwo na udział w badaniu należy kliknąć w czarny przycisk ze strzałką.
