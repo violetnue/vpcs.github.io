@@ -14,24 +14,21 @@
                         </p>
 
                         <p>
-                            Uprzejmie proszę o zapoznanie się z poniższym tekstem.</p>
-                        <p>
                             Biorą Państwo udział w badaniu mającym na celu zrozumienie procesów zachodzących podczas percypowania
                             strony internetowej.
-                            Badanie posiada dwie części: eksperymentalną oraz ankietę.
-                            Zanim zaczniemy, chciałabym Panią/Pana zapewnić, że
-                            odpowiedzi, których Pani/Pan udzieli są całkowicie anonimowe i nie będą powiązane z
+                            Badanie dzieli sie na część eksperymentalną oraz ankietę.
+                            Odpowiedzi są całkowicie anonimowe i nie będą powiązane z
                             konkretną osobą.
                         </p>
                       <p>
-                        <b>Prosiłabym o wykonanie badania na komputerze (PC)</b>
+                        <b>Prosiłabym o wykonanie badania na komputerze (PC.)</b>
                       </p>
                         <p>
                             Jeżeli wyrażają Państwo na udział w badaniu należy kliknąć w czarny przycisk ze strzałką.
                             Wtedy zostaną Państwo przekierowani na właściwe badanie.
                         </p>
                         <p>
-                            W razie jakichkolwiek pytań prosiłabym o kontakt mailowy: bozpro@st.amu.edu.pl
+                            W razie jakichkolwiek pytań proszę o kontakt mailowy: bozpro@st.amu.edu.pl.
                         </p>
 
 

@@ -15,13 +15,13 @@
 <!--                        </p>-->
 <!--                    </div>     -->
 
-                    <p class="text-h4 text--primary">
-                        Dziękuje serdecznie za udział w badaniu!
-                    </p>
+<!--                    <p class="text-h4 text&#45;&#45;primary">-->
+<!--                         Serdecznie dziękuję za udział w badaniu!-->
+<!--                    </p>-->
                     <p>Część eksperymentalna</p>
                     <div class="text--primary">
 <!--                        <p> Szanowni Państwo,</p>-->
-                        <p> Dziękuje bardzo za udział w części eksperymentalnej. Na koniec prosiłabym o przejście do ankiety i udzielenie
+                        <p> Dziękuje bardzo za udział w części eksperymentalnej. Proszę o przejście do ankiety i udzielenie
                             odpowiedzi na wszystkie pytania.
                         </p>
                     </div>

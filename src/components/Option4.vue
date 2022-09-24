@@ -201,7 +201,7 @@
                     <v-layout row wrap align-center>
                         <v-flex xs12 class="text-xs-center">
                             <div class="black--text ml-3">
-                                This website has been created for the purposes of the VPCS research.
+                                This website has been created for the purposes of the CVDP research.
                             </div>
                         </v-flex>
                     </v-layout>
@@ -246,13 +246,13 @@ export default {
             title: "MONOLUQUE",
             imageLink: {
                 main:
-                    "https://firebasestorage.googleapis.com/v0/b/vpcs-20268.appspot.com/o/Saly-2.png?alt=media&token=20728815-dbff-45a1-b8e0-2fd6a4ae9402",
+                    "https://firebasestorage.googleapis.com/v0/b/CVDP-20268.appspot.com/o/Saly-2.png?alt=media&token=20728815-dbff-45a1-b8e0-2fd6a4ae9402",
                 sub_main:
-                    "https://firebasestorage.googleapis.com/v0/b/vpcs-20268.appspot.com/o/Saly-19.png?alt=media&token=1e33507a-9be3-4b77-a031-bdecb8b94d2e",
+                    "https://firebasestorage.googleapis.com/v0/b/CVDP-20268.appspot.com/o/Saly-19.png?alt=media&token=1e33507a-9be3-4b77-a031-bdecb8b94d2e",
                 logo:
                     "https://firebasestorage.googleapis.com/v0/b/MONOLUQUEvue.appspot.com/o/assets%2Fandroid-chrome-512x512.png?alt=media&token=8a0a66f6-4741-4ff6-8f28-eb9ec74374df",
                 social_cover:
-                    "https://firebasestorage.googleapis.com/v0/b/vpcs-20268.appspot.com/o/Saly-2.png?alt=media&token=20728815-dbff-45a1-b8e0-2fd6a4ae9402"
+                    "https://firebasestorage.googleapis.com/v0/b/CVDP-20268.appspot.com/o/Saly-2.png?alt=media&token=20728815-dbff-45a1-b8e0-2fd6a4ae9402"
             },
             email: "",
             emailRules: [

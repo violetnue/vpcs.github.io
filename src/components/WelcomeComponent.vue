@@ -12,14 +12,14 @@
 <!--                        <p>Szanowni Państwo,</p>-->
 
                         <p>
-                            Zostanie przedstawiona Państwu seria stron internetowych, które prosiłabym dokładnie się
+                            Za chwilę zostanie przedstawiona Państwu seria stron internetowych, którym należy się dokładnie
                             przyjrzeć.
-                            Następnie na samym dole każdej strony internetowej - w prawym dolnym rogu będzie znajdować się
-                            czarna strzałka (taka jak poniżej), która przekieruje Państwa na kolejną stroną
+                            Na samym dole każdej strony internetowej - w prawym dolnym rogu - znajduje się
+                            czarny przycisk ze strzałka, która przekieruje Państwa na kolejną stroną
                             internetową.
-                            Prosiłabym o przejrzenie każdej ze stron bardzo dokładnie, aż nie pojawi się krótka ankieta
+                            Proszę o przejrzenie każdej ze stron bardzo dokładnie - na końcu pojawi się krótka ankieta
                             z pytaniami.
-                        <p> Po wciśnięciu czarnego przycisku ze strzałką będą Państwo przekierowani do badania.</p>
+                        <p> Po wciśnięciu czarnego przycisku ze strzałką zostaną Państwo przekierowani do badania.</p>
 
                     </div>
                 </v-card-text>
