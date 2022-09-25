@@ -49,12 +49,10 @@
                                                 <div class="headline text-xs-center">Reach the world</div>
                                             </v-card-title>
                                             <v-card-text>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec
-                                                sem lobortis, dapibus erat ut, ultricies libero. Etiam laoreet blandit
-                                                urna, eget suscipit quam pulvinar vel. Proin vitae venenatis lorem.
-                                                Donec placerat laoreet viverra. Donec commodo dolor vitae neque
-                                                sollicitudin, non hendrerit est condimentum. Integer ac mattis enim,
-                                                eget posuere ex.
+                                              Our company will allow you to expand your talents and share
+                                              them with other users. All you need to do is join our group
+                                              of over 100,000 users. You’ll have free access to our product for a month,
+                                              after which you’ll be able to buy extra features.
                                             </v-card-text>
                                         </v-card>
                                     </v-flex>
@@ -65,12 +63,9 @@
                                                 <div class="headline text-xs-center">Fast feedback</div>
                                             </v-card-title>
                                             <v-card-text>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec
-                                                sem lobortis, dapibus erat ut, ultricies libero. Etiam laoreet blandit
-                                                urna, eget suscipit quam pulvinar vel. Proin vitae venenatis lorem.
-                                                Donec placerat laoreet viverra. Donec commodo dolor vitae neque
-                                                sollicitudin, non hendrerit est condimentum. Integer ac mattis enim,
-                                                eget posuere ex.
+                                              If you would like to learn more about your work and expect an unbiased opinion,
+                                              we are here for you. All you need to do is log in to our portal and upload your work and we
+                                              will give you an answer within a few days.
                                             </v-card-text>
                                         </v-card>
                                     </v-flex>
@@ -81,12 +76,9 @@
                                                 <div class="headline text-xs-center">Create new connections</div>
                                             </v-card-title>
                                             <v-card-text>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec
-                                                sem lobortis, dapibus erat ut, ultricies libero. Etiam laoreet blandit
-                                                urna, eget suscipit quam pulvinar vel. Proin vitae venenatis lorem.
-                                                Donec placerat laoreet viverra. Donec commodo dolor vitae neque
-                                                sollicitudin, non hendrerit est condimentum. Integer ac mattis enim,
-                                                eget posuere ex.
+                                              Thanks to MONOLUQUE you will meet new friends.
+                                              You will be able to share your talents with them. You will be connected for all the time.
+                                              Don’t forget to share this with your friends and be an unforgettable MONOLUQUE!
                                             </v-card-text>
                                         </v-card>
                                     </v-flex>
