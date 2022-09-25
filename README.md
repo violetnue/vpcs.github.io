@@ -1,4 +1,4 @@
-# CVDP2
+# vpcs2
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# CVDP.github.io
+# vpcs.github.io
